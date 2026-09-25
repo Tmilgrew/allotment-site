@@ -1,7 +1,6 @@
 # allotment-site
 
-Static pages for the PayPots iPhone app, served by GitHub Pages. The repository keeps its
-original `allotment-site` name so the published URLs stay the same.
+Static pages for the Allotment iPhone app, served by GitHub Pages.
 
 - `privacy.html` — the privacy policy linked from App Store Connect and the app's Settings.
 - `support.html` — the support page linked from App Store Connect and the app's Settings.
